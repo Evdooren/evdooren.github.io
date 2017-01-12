@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+header {
+    font-family: Arial;
+    padding: 1em;
+    color: white;
+    background-color: cadetblue;
+    clear: left;
+    text-align: center;
+}
+    
+footer {
+    font-family: Arial;
+    padding: 1em;
+    color: white;
+    background-color: cadetblue;
+    clear: left;
+    text-align: center;
+}
+article {
+    text-align: justify;
+    font-family: Arial;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
 
+    <a href="http://www.rythovius.nl">
+  <img src="http://www.rythovius.nl/Portals/_default/Skins/Rythovius/img/logo.png" alt="Schoollogo" align="right">
+</a>
+    
+    
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Het verhaal van Hercules</h1>
+</header>
+  
+<article>
+        <p>
+            Hercules was de zoon van de Griekse oppergod Zeus. Zijn moeder was een menselijke vrouw. De vrouw van Zeus, de goding Hera, was erg jaloers op Hercules. Nog toen hij een baby was, probeerde ze hem al te vermoorden! Ze stuurde twee slangen naar zijn kribbetje. De volgende ochtend, vonden ze Hercules. Hij lag lekker te brabbelen. In elk handje had hij een dode slang vast.
+        </p>
+    <img src="http://evdooren.github.io/Baby.png" alt="Baby" align="left">       
+</article>
+    
+<footer>Rythovius College</footer>
+
+</div>
+    
+</body>
+</html>
